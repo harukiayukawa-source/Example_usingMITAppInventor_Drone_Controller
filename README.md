@@ -1,6 +1,6 @@
 # Example_usingMITAppInventor_Drone_Controller
 BLE通信でドローンをリアルタイム制御するAndroidアプリです。<br>
-MIT App Inventor(Webベースのビジュアルプログラミング環境)で製作いたしました。<br>
+MIT App Inventor(略MAI : Webベースのビジュアルプログラミング環境)で製作いたしました。<br>
 BLE通信で必要なUUIDなどは私のドローンの設定値に固定されているため、このアプリをそのまま使用することはできません。<br>
 あくまでMIT App Inventorで作成できる外観やUIの参考になればと思い挙げています。<br>
 
@@ -21,9 +21,9 @@ BLE通信でドローンを制御するAndroidアプリ
 
 ## ダウンロード
 [APKはこちら](https://github.com/harukiayukawa-source/Example_usingMITAppInventor_Drone_Controller/releases/tag/v0-00(Test))<br>
-[.aiaファイルはこちら]()<br>
-(ダウンロード後、MIT App InventorのURLを開き、そこでインポートしてください)<br>
-[MIT App InventorのURL]()
+[MAI専用のプロジェクト・ソースファイル .aiaファイルはこちら]()<br>
+(ダウンロード後、MIT App InventorのURLを開き、「Create Apps!」をクリックし、そこでインポートすることで開けます。)<br>
+[MIT App InventorのURL](https://appinventor.mit.edu/)
 
 
 ## 技術スタック
@@ -37,6 +37,7 @@ BLE通信でドローンを制御するAndroidアプリ
 
 ## What is MIT App Inventor ?
 ブラウザ上でできる、アプリケーション開発ツールです。GUIでのUIデザインとブロックプログラミングによるロジック実装ができます。<br>
+グーグルアカウントさえあれば使えます。<br>
 以下に他のBLE通信を制御する有名なアプリ開発ツールとの比較を示します。<br>
 - RemoteXY(良い点)：UIのデザイン能力で優っていると思います。特にジョイスティック風のUIなどCANVAS機能を使ってカスタムインターフェースを実装できる点が強みです。
 - Blynk(良い点)：あちらは有料ですが、MAIは無料です。また、BlynkでのBLE通信には外部のクラウドサーバを一旦経由する必要があるため、インターネット環境が必須で遅延があります。MAIはローカル直通信が可能で低レイヤ制御ができます。遅延が少なく、バイト列やCSVなど通信プロトコル設計の自由度も高いです。
