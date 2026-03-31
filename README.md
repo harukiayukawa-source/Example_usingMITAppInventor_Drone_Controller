@@ -20,7 +20,7 @@ BLE通信でドローンを制御するAndroidアプリ
 - ゲイン定数のデフォルト値とチューニング値の切り替え対応
 
 ## ダウンロード
-[APKはこちら](https://github.com/harukiayukawa-source/Example_usingMITAppInventor_Drone_Controller/releases/tag/v0-00(Test))<br>
+[実際のAPKはこちら](https://github.com/harukiayukawa-source/Example_usingMITAppInventor_Drone_Controller/releases/tag/v0-00(Test))<br>
 [MAI専用のプロジェクト・ソースファイル .aiaファイルはこちら](App_Source)<br>
 (ダウンロード後、MIT App InventorのURLを開き、「Create Apps!」をクリックし、そこでインポートすることで開けます。)<br>
 [MIT App InventorのURL](https://appinventor.mit.edu/)
