@@ -21,7 +21,7 @@ BLE通信でドローンを制御するAndroidアプリ
 
 ## ダウンロード
 [APKはこちら](https://github.com/harukiayukawa-source/Example_usingMITAppInventor_Drone_Controller/releases/tag/v0-00(Test))<br>
-[MAI専用のプロジェクト・ソースファイル .aiaファイルはこちら]()<br>
+[MAI専用のプロジェクト・ソースファイル .aiaファイルはこちら](App_Source)<br>
 (ダウンロード後、MIT App InventorのURLを開き、「Create Apps!」をクリックし、そこでインポートすることで開けます。)<br>
 [MIT App InventorのURL](https://appinventor.mit.edu/)
 
