@@ -16,7 +16,7 @@ BLE通信でドローンを制御するAndroidアプリ
 （動画 or GIF）
 
 ## ダウンロード
-[APKはこちら](リンク)
+[APKはこちら](sha256:cc3b27c2228cd659a8b13d33558303173b49a7af41e767d4e80900816dc5c0dc)
 
 ## 技術スタック
 - MIT App Inventor
