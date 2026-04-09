@@ -1,4 +1,4 @@
-# Example_usingMITAppInventor_Drone_Controller
+# Example_MITAppInventor_for_DroneController
 BLE通信でドローンをリアルタイム制御するAndroidアプリです。<br>
 MIT App Inventor(略MAI : Webベースのビジュアルプログラミング環境)で製作いたしました。<br>
 BLE通信で必要なUUIDなどは私のドローンの設定値に固定されているため、このアプリをそのまま使用することはできません。<br>
